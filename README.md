@@ -1,3 +1,26 @@
+#Notes:
+
+* The completed assignment is uploaded to the Repository. It contains 8 files. They are
+
+<ol>
+
+<li> Plot1.R </li>
+<li> Plot2.R </li>
+<li> Plot3.R </li>
+<li> Plot4.R </li>
+<li> Plot1.png </li>
+<li> Plot2.png </li>
+<li> Plot3.png </li>
+<li> Plot4.png </li>
+
+ </ol>
+
+* Each of these R scripts produce the respective plots. The scripts assume that the 
+household_power_consumption.txt file that contains the entire data set is downloaded and unzipped to the working Director.
+
+* I made every effort to read only the relevant rows between 2007-02-01 and 2007-02-02. But I couldn't figure out the right Read function. So I did read the entire dataset and then filtered the rows. I intend to go back and review this a later time to make the Read process more memory efficient
+
+
 ## Introduction
 
 This assignment uses data from
